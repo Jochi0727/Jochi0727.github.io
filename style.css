@@ -13,7 +13,7 @@ div.container {
 }
 
 div.left {
-  width:50%;
+  width:40%;
   font-size:20px;
   height:100vh;
   background-color:black;
@@ -22,7 +22,7 @@ div.left {
 }
 
 div.right {
-  width:50%;
+  width:60%;
   height:100vh;
   overflow:scroll;
   background-color:grey;
@@ -41,13 +41,13 @@ div.Introduction {
 }
 
 div.content {
-    font-size: 18px;
+    font-size: 13px;
     margin-left:30px;
     margin-top: 10px;
 }
 
 div.subtitle{
-    font-size: 18px;
+    font-size: 15px;
     margin-left: 30px;
     margin-top: 50px;
     font-weight: bold;
